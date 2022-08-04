@@ -9,6 +9,6 @@ Anggota:
 
 
 
-Untuk masuk ke Dashboard admin gunakan:\
+To login to admin Dashboard use:\
 email        : gobooks.admin@email.com\
 password : goboooks
